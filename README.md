@@ -18,6 +18,9 @@
 
      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chicks2014&langs_count=5&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chicks2014&label=Profile%20views&color=0e75b6&style=flat" alt="chicks2014" /> </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chicks2014&" alt="chicks2014" /></p>
 ---
 
 ***Thanks for visit my profile.***
