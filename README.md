@@ -21,7 +21,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chicks2014&label=Profile%20views&color=0e75b6&style=flat" alt="chicks2014" /> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chicks2014&" alt="chicks2014" /></p>
----
+
+<br>
+
+<hr>
 
 ***Thanks for visit my profile.***
 
