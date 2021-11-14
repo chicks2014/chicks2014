@@ -1,7 +1,7 @@
 - ### Hi there, I'm Chetan Hirapara👋
 
  [![Website](https://img.shields.io/website?label=ChetanHirapara&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/chetan-hirapara-90344345/)
- [![Twitter Follow](https://img.shields.io/twitter/follow/chetanraj002?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+ [![Twitter Follow](https://img.shields.io/twitter/follow/chetanraj002?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/chetanraj002)
 
   ## I'm a Lead Data Scientist, AI Researcher, Machine learning Practitioner [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetan-hirapara-90344345/)
  ![Chetan-Hirapara's GitHub stats](https://github-readme-stats.vercel.app/api?username=chicks2014&show_icons=true&theme=algolia)
