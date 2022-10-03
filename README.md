@@ -12,7 +12,7 @@
  - 🌱 I’m currently learning Advance NLP
  - 💞️ I’m looking to collaborate on deep learning libraries.
  - 📫 You can reachout to me on my email id: chetanraj002@gmail.com
- - 🥅 2021 Goals: Explore the more and more research of Computer vision, Deep learning, NLP, etc.
+ - 🥅 2022 Goals: Explore the more and more research of Computer vision, Deep learning, NLP, etc.
 
  - ⚡ Fun fact: I love to code.
 
