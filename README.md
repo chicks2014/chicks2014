@@ -6,7 +6,6 @@
 
   ## I'm a Lead Data Scientist, AI Researcher, Machine learning Practitioner [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetan-hirapara-90344345/)
 
-   ---
 
  - 🔭 I am Currently working as **Lead Data Scientist** at [Vedity](https://vedity.com/)
  - 👀 I’m interested in Machine Learning, NLP, Computer Vision 
@@ -65,12 +64,6 @@
  
   ---
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chicks2014&" alt="chicks2014" /></p>
-
-<br>
-
-<hr>
 
 ***Thanks for visit my profile.***
 
