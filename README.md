@@ -7,12 +7,12 @@
   ## I'm a Lead Data Scientist, AI Researcher, Machine learning Practitioner [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetan-hirapara-90344345/)
 
 
- - 🔭 I am Currently working as **Lead Data Scientist** at [Vedity](https://vedity.com/)
+ - 🔭 I am Currently working as **Lead Data Scientist** at [Terdata](https://teradata.com/)
  - 👀 I’m interested in Machine Learning, NLP, Computer Vision 
  - 🌱 I’m currently learning Advance NLP
  - 💞️ I’m looking to collaborate on deep learning libraries.
- - 📫 You can reachout to me on my email id: chetanraj002@gmail.com
- - 🥅 2022 Goals: Explore the more and more research of Computer vision, Deep learning, NLP, etc.
+ - 📫 You can reach out to me at my email id: chetanraj002@gmail.com
+ - 🥅 2023 Goals: Explore more and more research of Large Language Models, LangChain, GenerativeAI, etc.
 
  - ⚡ Fun fact: I love to code.
  
